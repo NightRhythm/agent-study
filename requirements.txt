@@ -1,0 +1,4 @@
+openai>=1.30.0
+python-dotenv>=1.0.0
+gradio>=6.0.0
+tavily-python>=0.8.0
